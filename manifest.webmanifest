@@ -1,0 +1,19 @@
+{
+  "name": "Net Invers — calculator fiscal invers",
+  "short_name": "Net Invers",
+  "description": "Află cât să facturezi ca să-ți rămână suma netă dorită.",
+  "lang": "ro-RO",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f2",
+  "theme_color": "#10271f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
